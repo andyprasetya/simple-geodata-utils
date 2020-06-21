@@ -1,2 +1,1 @@
-# simple-geodata-utils
-Simple Geospatial Data Utility
+# Simple Geospatial Data Utility
